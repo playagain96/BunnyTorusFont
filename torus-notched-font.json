@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Torus Notched",
+    "previewText": "My first try to make something for Bunny",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-Bold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-BoldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-Medium": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-MediumItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-Normal": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-NormalItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-Bold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-Medium": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-Normal": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-NormalItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf"
+    }
+}
