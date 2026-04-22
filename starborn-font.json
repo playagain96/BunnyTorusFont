@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Starborn",
+    "previewText": "Cute star font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-Bold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-BoldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-Medium": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-MediumItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-Normal": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-NormalItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "NotoSans-Bold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "NotoSans-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "NotoSans-Medium": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "NotoSans-Normal": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "NotoSans-NormalItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "NotoSans-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf",
+        "SourceCodePro-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/StarbornPL.ttf"
+    }
+}
