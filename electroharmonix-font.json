@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Electroharmonix",
+    "previewText": "Japanese mimic font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-Bold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-BoldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-Medium": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-MediumItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-Normal": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-NormalItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "NotoSans-Bold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "NotoSans-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "NotoSans-Medium": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "NotoSans-Normal": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "NotoSans-NormalItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "NotoSans-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf",
+        "SourceCodePro-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/Electroharmonix.ttf"
+    }
+}
